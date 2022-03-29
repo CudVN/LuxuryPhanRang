@@ -93,7 +93,7 @@ var emailBody ='';
             Host: "smtp.gmail.com",
             Username: "quantri.luxurylegend@gmail.com",
             Password: "1Hanhphac",
-            To: "duc.it@toyota.binhduong.vn",
+            To: "vanphuchoanghon@gmail.com",
             From: "quantri.luxurylegend@gmail.com",
             Subject: "LUXURY LEGEND - ĐẶT XE",
             Body: emailBody += "<br /> Tên khách hàng: " + document.getElementById("FullName").value + "<br /> Số điện thoại: " + document.getElementById("Phone").value + "<br /> Thông tin thêm: " + document.getElementById("Note").value
